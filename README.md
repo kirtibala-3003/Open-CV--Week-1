@@ -3,6 +3,9 @@ Open CV (Computer Vision) is done via Python bindings for computer vision and im
 <br>
 It is installed using pip
 <br>
+
+It works as
+<br>
 Image and Video Processing: Reading, writing, displaying images and videos, resizing, cropping, rotating, color space conversions (e.g., BGR to grayscale), image filtering (blurring, sharpening), edge detection (e.g., Canny), and more.
 <br>
 ✅Object Detection and Recognition: Face detection, object recognition using pre-trained models or custom training, object tracking.
